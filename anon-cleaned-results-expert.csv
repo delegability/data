@@ -1,0 +1,501 @@
+task,gender,gender-input,age,tech-level,edu-level,s_social_skills,s_creativity,d_effort,d_expertise,d_abilities,r_accountable,r_uncertainty,r_impact,t_machine_ability,t_process,t_values,label
+"Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",male,,56-65,3,4,4,4,3,4,4,4,4,3,4,3,4,3
+"Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",male,,36-45,4,5,4,2,2,4,5,3,2,3,4,3,3,2
+"Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",male,,56-65,4,5,4,2,4,4,5,3,4,2,4,4,4,2
+"Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",female,,56-65,4,5,2,2,2,4,4,4,2,4,4,1,4,3
+"Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",female,,56-65,4,4,2,2,2,2,4,2,2,3,4,4,4,1
+Analyzing and controlling the flow of traffic in a city,female,,56-65,3,5,1,1,5,5,5,4,4,5,1,5,1,3
+Analyzing and controlling the flow of traffic in a city,male,,26-35,5,5,4,3,4,4,4,4,4,5,4,4,4,2
+Analyzing and controlling the flow of traffic in a city,male,,26-35,5,5,2,3,4,4,4,4,3,4,5,4,4,3
+Analyzing and controlling the flow of traffic in a city,female,,46-55,3,3,2,4,4,4,4,4,4,4,4,4,3,2
+Analyzing and controlling the flow of traffic in a city,female,,36-45,4,5,3,4,4,3,4,4,5,4,4,4,3,1
+Analyzing and critiquing aesthetic qualities of photographs or other forms of art,male,,26-35,5,5,4,5,2,2,4,1,2,1,2,4,2,4
+Analyzing and critiquing aesthetic qualities of photographs or other forms of art,male,,26-35,4,5,5,3,4,5,5,2,4,2,4,4,4,3
+Analyzing and critiquing aesthetic qualities of photographs or other forms of art,female,,36-45,4,5,5,5,4,3,4,2,3,2,1,4,2,4
+Analyzing and critiquing aesthetic qualities of photographs or other forms of art,female,,36-45,3,2,4,5,3,3,4,4,4,4,2,4,4,4
+Analyzing and critiquing aesthetic qualities of photographs or other forms of art,female,,26-35,4,5,1,5,3,2,5,4,5,1,2,5,1,4
+"Analyzing and sorting legal documents for important information, e.g., to find legal precedents for arguing a case in court (similar to some of what a paralegal might do)",male,,26-35,4,3,2,5,5,5,4,4,4,5,4,4,4,3
+"Analyzing and sorting legal documents for important information, e.g., to find legal precedents for arguing a case in court (similar to some of what a paralegal might do)",male,,26-35,4,3,5,4,5,4,5,5,5,5,2,4,2,3
+"Analyzing and sorting legal documents for important information, e.g., to find legal precedents for arguing a case in court (similar to some of what a paralegal might do)",male,,66-75,3,2,1,4,5,4,4,3,3,4,4,3,4,3
+"Analyzing and sorting legal documents for important information, e.g., to find legal precedents for arguing a case in court (similar to some of what a paralegal might do)",male,,26-35,4,5,2,3,4,4,4,4,4,4,4,4,4,2
+"Analyzing and sorting legal documents for important information, e.g., to find legal precedents for arguing a case in court (similar to some of what a paralegal might do)",female,,36-45,2,3,4,4,4,4,4,4,3,4,3,4,4,3
+Analyzing financial market conditions and executing market orders for a large company (e.g. buy/sell stocks),male,,26-35,4,3,3,3,2,4,3,3,4,2,3,3,4,1
+Analyzing financial market conditions and executing market orders for a large company (e.g. buy/sell stocks),male,,46-55,4,3,5,3,5,5,5,5,5,5,3,4,3,3
+Analyzing financial market conditions and executing market orders for a large company (e.g. buy/sell stocks),male,,26-35,3,5,2,3,2,5,5,5,3,4,4,4,3,2
+Analyzing financial market conditions and executing market orders for a large company (e.g. buy/sell stocks),female,,18-25,3,5,4,3,3,3,4,5,2,4,5,4,4,2
+Analyzing financial market conditions and executing market orders for a large company (e.g. buy/sell stocks),female,,26-35,4,5,1,1,4,5,4,4,4,4,4,4,4,3
+Arguing your case when you're a defendant in a criminal court,male,,46-55,5,5,5,5,5,5,5,5,3,5,1,5,1,3
+Arguing your case when you're a defendant in a criminal court,male,,18-25,3,5,5,5,5,5,5,4,4,5,2,2,3,3
+Arguing your case when you're a defendant in a criminal court,male,,18-25,5,5,4,5,5,5,4,5,2,4,2,4,3,3
+Arguing your case when you're a defendant in a criminal court,male,,36-45,5,5,1,5,5,5,5,5,5,5,2,5,1,4
+Arguing your case when you're a defendant in a criminal court,female,,36-45,4,4,5,5,5,5,5,5,5,5,2,2,1,3
+Asking a person out on a date,female,,26-35,3,3,5,4,3,3,3,2,3,2,2,3,2,4
+Asking a person out on a date,female,,36-45,4,5,5,2,2,2,5,3,5,2,2,5,2,4
+Asking a person out on a date,male,,56-65,5,3,5,4,4,5,4,3,5,2,4,5,4,2
+Asking a person out on a date,female,,26-35,4,4,5,4,2,1,4,3,4,4,2,4,2,4
+Asking a person out on a date,female,,46-55,3,5,5,2,2,1,5,3,5,2,2,4,2,4
+Assembling automobiles in a factory,male,,36-45,4,2,2,3,4,4,4,4,2,4,4,4,5,2
+Assembling automobiles in a factory,female,,26-35,4,5,2,2,5,2,4,5,2,4,4,4,5,2
+Assembling automobiles in a factory,male,,26-35,4,3,3,3,4,5,4,5,3,5,3,3,4,3
+Assembling automobiles in a factory,male,,26-35,5,5,1,2,4,4,4,4,4,4,4,2,3,3
+Assembling automobiles in a factory,male,,26-35,4,3,1,1,4,4,4,5,4,4,5,4,4,2
+Assisting an elderly person with showering or bathing,male,,36-45,5,4,2,2,5,3,4,4,4,5,4,4,2,2
+Assisting an elderly person with showering or bathing,male,,26-35,5,3,3,4,4,4,4,4,4,4,4,4,4,2
+Assisting an elderly person with showering or bathing,male,,56-65,4,3,4,4,4,3,4,4,4,4,2,4,4,3
+Assisting an elderly person with showering or bathing,female,,18-25,5,5,4,1,4,1,5,4,3,2,2,2,3,4
+Assisting an elderly person with showering or bathing,female,,26-35,4,5,5,4,2,4,5,5,4,5,2,4,2,3
+Assisting your elderly parent,male,,36-45,3,5,4,3,4,3,4,4,3,4,3,2,3,3
+Assisting your elderly parent,female,,56-65,3,3,5,5,5,4,5,5,3,5,3,5,3,2
+Assisting your elderly parent,male,,18-25,3,2,4,4,4,2,4,4,4,4,2,4,2,3
+Assisting your elderly parent,male,,26-35,5,5,5,2,5,1,5,5,1,4,5,5,5,2
+Assisting your elderly parent,female,,26-35,2,3,5,5,4,3,5,4,2,2,4,2,4,3
+Babysitting your child,female,,56-65,3,3,4,4,4,3,4,5,4,5,2,4,2,3
+Babysitting your child,female,,26-35,3,4,5,5,5,4,5,5,4,5,1,5,1,4
+Babysitting your child,male,,46-55,4,5,3,3,3,4,3,5,4,5,3,3,3,2
+Babysitting your child,male,,26-35,5,3,4,4,5,5,5,5,4,5,2,3,2,3
+Babysitting your child,male,,36-45,5,5,5,5,5,4,4,5,5,5,1,1,1,4
+Breaking up with your romantic partner,female,,36-45,3,2,5,2,3,1,3,4,2,2,4,2,2,3
+Breaking up with your romantic partner,male,,26-35,4,4,4,1,3,3,2,4,2,4,2,3,1,3
+Breaking up with your romantic partner,female,,36-45,3,5,5,4,3,3,4,2,3,4,1,4,2,4
+Breaking up with your romantic partner,female,,36-45,2,5,5,2,2,1,5,2,4,4,4,2,2,3
+Breaking up with your romantic partner,male,,26-35,4,5,5,3,5,2,4,2,3,4,2,4,2,4
+Brushing your teeth,male,,26-35,5,5,1,1,1,1,5,1,1,1,5,2,5,1
+Brushing your teeth,male,,26-35,5,3,1,1,1,1,5,2,1,1,3,2,3,4
+Brushing your teeth,female,,26-35,5,4,1,2,4,2,4,4,2,5,3,4,4,3
+Brushing your teeth,male,,36-45,5,5,1,2,1,1,5,1,1,2,5,1,4,1
+Brushing your teeth,female,,46-55,3,4,1,3,4,2,5,1,3,2,2,3,3,4
+Buying groceries,female,,36-45,3,5,2,2,2,1,4,4,4,2,4,2,4,4
+Buying groceries,female,,26-35,4,5,2,2,2,2,4,1,2,1,4,4,4,4
+Buying groceries,male,,46-55,5,5,1,2,2,1,5,5,2,2,5,4,5,2
+Buying groceries,female,,36-45,2,4,2,2,2,1,5,4,2,4,4,4,4,3
+Buying groceries,female,,36-45,4,3,4,4,4,4,4,4,1,1,4,4,4,3
+Choosing and ordering food to eat for dinner,male,,26-35,3,3,1,1,4,1,5,3,3,1,5,3,4,1
+Choosing and ordering food to eat for dinner,male,,56-65,3,5,3,2,1,2,4,3,4,3,3,5,3,2
+Choosing and ordering food to eat for dinner,female,,26-35,3,5,4,2,1,1,5,2,1,1,4,4,4,3
+Choosing and ordering food to eat for dinner,male,,26-35,5,3,4,3,4,2,4,4,4,4,3,5,3,3
+Choosing and ordering food to eat for dinner,male,,36-45,5,5,4,4,2,1,5,2,2,2,4,3,4,2
+Choreographing dance moves for a person to perform,male,,18-25,5,5,3,2,2,4,4,3,3,2,3,3,4,4
+Choreographing dance moves for a person to perform,female,,18-25,4,2,3,5,4,4,4,4,3,2,4,5,4,3
+Choreographing dance moves for a person to perform,male,,18-25,5,4,4,2,4,4,5,4,3,4,5,2,4,1
+Choreographing dance moves for a person to perform,male,,26-35,3,5,1,4,4,4,5,3,5,1,4,2,4,2
+Choreographing dance moves for a person to perform,female,,26-35,4,4,4,5,4,3,5,3,2,1,4,2,2,3
+"Cleaning up toxic waste, e.g., after a chemical spill",female,,26-35,4,5,2,4,5,3,3,5,4,4,3,3,4,2
+"Cleaning up toxic waste, e.g., after a chemical spill",male,,18-25,4,5,5,5,5,5,5,5,5,5,4,5,5,2
+"Cleaning up toxic waste, e.g., after a chemical spill",male,,26-35,3,4,5,5,5,5,4,4,3,4,2,2,2,3
+"Cleaning up toxic waste, e.g., after a chemical spill",female,,36-45,4,5,4,5,5,4,3,4,4,4,3,4,3,3
+"Cleaning up toxic waste, e.g., after a chemical spill",male,,56-65,3,5,1,2,5,4,4,5,3,4,4,3,3,3
+Cleaning your house,male,,56-65,4,5,2,2,4,4,4,4,4,2,3,2,4,3
+Cleaning your house,female,,26-35,3,2,1,3,3,2,5,2,2,3,5,4,4,3
+Cleaning your house,male,,36-45,4,2,2,4,5,2,5,4,2,4,4,4,4,2
+Cleaning your house,male,,26-35,3,4,5,3,4,2,5,2,2,1,4,4,3,2
+Cleaning your house,female,,36-45,3,5,1,4,5,2,4,4,4,5,2,4,3,3
+Conducting a risk prognosis assessment for deciding which patients to transfer to the ICU given limited resources (intensive care),male,,18-25,4,3,2,3,4,5,5,5,3,5,3,5,3,3
+Conducting a risk prognosis assessment for deciding which patients to transfer to the ICU given limited resources (intensive care),male,,26-35,4,5,4,4,4,5,5,5,3,5,4,4,4,2
+Conducting a risk prognosis assessment for deciding which patients to transfer to the ICU given limited resources (intensive care),male,,18-25,5,5,2,4,4,4,4,4,4,3,4,4,4,2
+Conducting a risk prognosis assessment for deciding which patients to transfer to the ICU given limited resources (intensive care),female,,36-45,4,5,2,1,2,5,4,4,5,5,5,5,4,2
+Conducting a risk prognosis assessment for deciding which patients to transfer to the ICU given limited resources (intensive care),female,,46-55,3,4,5,4,4,4,3,5,4,5,1,1,1,4
+Cooking dinner,male,,26-35,4,3,1,4,4,3,5,4,4,2,3,3,3,4
+Cooking dinner,male,,56-65,3,2,4,5,4,3,5,3,4,2,2,4,3,3
+Cooking dinner,male,,26-35,4,5,2,5,4,3,5,4,4,2,2,4,3,3
+Cooking dinner,female,,36-45,4,5,1,4,4,3,2,3,3,2,4,4,4,3
+Cooking dinner,male,,26-35,4,5,2,4,4,4,5,4,5,2,2,4,3,2
+"Coordinating and oversee construction of a building, e.g., consulting with engineers, surveyors, specialists, and construction workers -- similar to some of what an architect might do.",female,,18-25,4,2,5,3,4,5,4,4,2,4,4,4,2,3
+"Coordinating and oversee construction of a building, e.g., consulting with engineers, surveyors, specialists, and construction workers -- similar to some of what an architect might do.",male,,46-55,4,5,4,4,4,4,4,4,4,4,2,4,2,3
+"Coordinating and oversee construction of a building, e.g., consulting with engineers, surveyors, specialists, and construction workers -- similar to some of what an architect might do.",male,,26-35,5,5,4,3,4,2,5,5,2,4,4,2,2,3
+"Coordinating and oversee construction of a building, e.g., consulting with engineers, surveyors, specialists, and construction workers -- similar to some of what an architect might do.",female,,36-45,3,4,2,2,5,5,4,5,5,5,3,2,2,3
+"Coordinating and oversee construction of a building, e.g., consulting with engineers, surveyors, specialists, and construction workers -- similar to some of what an architect might do.",male,,46-55,5,5,4,3,4,4,4,4,4,4,4,4,4,3
+"Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",male,,26-35,4,5,4,4,2,4,4,4,2,2,2,2,2,4
+"Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",female,,26-35,3,3,2,5,4,5,5,5,4,4,1,4,2,4
+"Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",male,,36-45,4,3,4,5,3,3,5,3,4,2,3,4,3,4
+"Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",female,,46-55,3,5,4,4,5,5,5,4,4,4,2,5,1,4
+"Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",male,,36-45,4,5,4,5,3,4,4,5,3,4,3,3,2,4
+Deciding military actions such as whether to launch airstrikes,male,,26-35,4,3,2,2,4,5,4,5,3,4,3,4,2,3
+Deciding military actions such as whether to launch airstrikes,female,,46-55,3,5,5,4,5,5,5,5,5,5,2,4,2,3
+Deciding military actions such as whether to launch airstrikes,male,,36-45,4,3,2,4,3,5,5,4,3,4,2,4,3,3
+Deciding military actions such as whether to launch airstrikes,male,,66-75,3,4,5,4,4,5,4,5,3,5,2,4,3,3
+Deciding military actions such as whether to launch airstrikes,male,,26-35,4,3,3,2,4,5,4,5,4,5,2,3,2,3
+Deciding on an outfit for you to wear,female,,36-45,3,3,3,4,3,3,5,3,3,1,4,3,3,2
+Deciding on an outfit for you to wear,male,,56-65,5,5,4,4,3,2,4,2,2,4,4,4,4,2
+Deciding on an outfit for you to wear,male,,18-25,3,5,2,4,2,1,4,2,2,1,4,4,4,2
+Deciding on an outfit for you to wear,female,,36-45,4,5,3,5,3,3,5,4,5,2,2,4,3,3
+Deciding on an outfit for you to wear,female,,26-35,5,4,4,4,4,4,4,2,2,2,3,2,2,4
+Deciding which applicants receive a loan from a bank (loan assessment),male,,26-35,5,5,3,1,4,4,5,5,3,4,3,5,3,3
+Deciding which applicants receive a loan from a bank (loan assessment),male,,18-25,4,3,2,4,4,4,4,4,4,4,4,5,4,2
+Deciding which applicants receive a loan from a bank (loan assessment),female,,56-65,5,5,2,3,3,4,4,3,3,3,4,4,4,2
+Deciding which applicants receive a loan from a bank (loan assessment),male,,26-35,4,2,4,4,2,4,5,4,4,2,5,5,5,1
+Deciding which applicants receive a loan from a bank (loan assessment),female,,36-45,3,3,1,1,1,1,1,1,1,5,4,4,1,2
+Deciding which applicants to hire as new employees for an open position at work,female,,46-55,3,4,4,4,5,4,4,5,3,3,3,4,3,2
+Deciding which applicants to hire as new employees for an open position at work,male,,26-35,4,3,5,3,2,4,4,4,2,3,2,5,2,3
+Deciding which applicants to hire as new employees for an open position at work,male,,26-35,4,5,4,2,3,2,3,3,4,5,2,3,3,3
+Deciding which applicants to hire as new employees for an open position at work,female,,56-65,5,5,5,5,2,3,3,2,2,4,1,5,1,4
+Deciding which applicants to hire as new employees for an open position at work,female,,26-35,4,3,4,4,4,5,5,5,4,4,4,5,4,2
+Describing images or scenes for visually impaired people,male,,36-45,4,3,4,4,4,2,4,3,4,2,2,4,2,2
+Describing images or scenes for visually impaired people,male,,26-35,3,blank,5,5,5,5,5,5,5,5,3,5,3,4
+Describing images or scenes for visually impaired people,male,,46-55,4,5,2,2,3,2,4,3,2,3,4,3,3,3
+Describing images or scenes for visually impaired people,female,,56-65,3,3,5,5,4,4,4,4,3,4,4,4,3,3
+Describing images or scenes for visually impaired people,female,,46-55,4,5,4,3,2,4,4,5,2,4,4,5,4,3
+Designing new clothing to manufacture and sell (similar to what a fashion designer might do),female,,56-65,4,3,4,5,4,4,5,4,4,2,1,2,1,4
+Designing new clothing to manufacture and sell (similar to what a fashion designer might do),female,,18-25,5,5,5,5,5,5,5,5,5,3,1,2,2,4
+Designing new clothing to manufacture and sell (similar to what a fashion designer might do),female,,26-35,4,4,4,5,5,2,5,5,3,1,2,2,2,4
+Designing new clothing to manufacture and sell (similar to what a fashion designer might do),male,,18-25,4,3,2,5,4,4,5,4,1,1,2,2,2,3
+Designing new clothing to manufacture and sell (similar to what a fashion designer might do),female,,46-55,3,3,4,5,4,4,5,5,4,5,2,4,1,3
+"Detecting and removing fake/deceptive online reviews (e.g., for hotels or products)",female,,36-45,3,5,2,1,4,2,4,5,2,2,2,4,2,3
+"Detecting and removing fake/deceptive online reviews (e.g., for hotels or products)",male,,36-45,3,5,4,4,2,2,4,4,4,2,3,3,2,3
+"Detecting and removing fake/deceptive online reviews (e.g., for hotels or products)",female,,56-65,3,3,5,5,1,1,5,5,3,3,1,5,1,3
+"Detecting and removing fake/deceptive online reviews (e.g., for hotels or products)",female,,56-65,2,5,4,3,4,4,3,2,4,4,2,4,3,2
+"Detecting and removing fake/deceptive online reviews (e.g., for hotels or products)",female,,26-35,2,5,4,3,5,3,4,4,2,2,2,4,3,3
+Detecting/recognizing abnormal or suspicious activities of people in crowds in public places for the purposes of security and safety (similar to part of what a police officer might do),male,,26-35,3,2,5,5,5,5,4,5,3,5,3,5,3,3
+Detecting/recognizing abnormal or suspicious activities of people in crowds in public places for the purposes of security and safety (similar to part of what a police officer might do),male,,26-35,5,5,4,5,4,3,4,4,3,3,3,4,3,3
+Detecting/recognizing abnormal or suspicious activities of people in crowds in public places for the purposes of security and safety (similar to part of what a police officer might do),male,,26-35,3,2,1,1,5,2,5,4,5,5,2,4,3,3
+Detecting/recognizing abnormal or suspicious activities of people in crowds in public places for the purposes of security and safety (similar to part of what a police officer might do),female,,26-35,4,5,4,2,5,5,4,5,4,5,2,2,3,3
+Detecting/recognizing abnormal or suspicious activities of people in crowds in public places for the purposes of security and safety (similar to part of what a police officer might do),female,,26-35,4,5,4,4,5,4,3,4,4,4,4,4,4,2
+Devising treatment plans for patients sick with the flu,female,,18-25,3,5,1,1,1,2,4,5,3,2,5,5,5,2
+Devising treatment plans for patients sick with the flu,male,,26-35,5,5,5,5,5,5,5,5,1,5,1,1,3,4
+Devising treatment plans for patients sick with the flu,male,,36-45,3,2,4,4,4,3,4,4,3,2,4,4,4,2
+Devising treatment plans for patients sick with the flu,male,,26-35,3,5,4,2,2,4,5,3,4,4,3,4,3,3
+Devising treatment plans for patients sick with the flu,male,,18-25,5,3,4,2,3,4,4,3,3,4,5,5,5,2
+Devising treatment plans for patients with cancer,female,,46-55,4,5,4,5,5,5,5,5,4,5,4,5,4,3
+Devising treatment plans for patients with cancer,female,,56-65,3,4,2,2,4,4,5,4,4,4,3,4,3,3
+Devising treatment plans for patients with cancer,female,,26-35,4,5,4,4,4,4,4,4,4,5,2,4,2,3
+Devising treatment plans for patients with cancer,male,,26-35,3,5,5,5,5,5,5,5,3,5,2,5,2,4
+Devising treatment plans for patients with cancer,female,,36-45,4,3,3,2,4,5,5,4,4,5,1,1,1,4
+Devising treatment plans for patients with depression,female,,26-35,3,5,4,4,4,4,4,5,2,4,2,4,4,4
+Devising treatment plans for patients with depression,male,,66-75,3,2,4,4,4,4,4,3,4,4,4,4,4,3
+Devising treatment plans for patients with depression,female,,18-25,3,3,2,2,4,2,5,5,4,5,4,4,5,2
+Devising treatment plans for patients with depression,male,,36-45,4,5,5,4,4,5,5,4,4,5,1,4,1,3
+Devising treatment plans for patients with depression,female,,18-25,4,5,4,3,2,2,4,4,4,4,4,4,3,3
+Diagnosing whether a person has cancer,male,,36-45,3,5,2,3,5,5,4,3,4,5,2,4,2,3
+Diagnosing whether a person has cancer,male,,26-35,4,2,5,3,5,5,4,5,4,5,3,4,3,3
+Diagnosing whether a person has cancer,female,,18-25,4,5,2,1,4,5,4,4,3,5,1,1,3,4
+Diagnosing whether a person has cancer,male,,18-25,5,5,2,2,2,5,4,3,4,4,4,3,4,2
+Diagnosing whether a person has cancer,male,,36-45,4,2,2,4,5,5,2,4,5,5,2,5,2,3
+Diagnosing whether a person has depression,male,,26-35,5,5,5,4,4,4,4,5,4,4,2,2,2,3
+Diagnosing whether a person has depression,male,,18-25,4,3,4,2,2,5,5,3,4,4,4,5,5,2
+Diagnosing whether a person has depression,female,,26-35,5,3,5,3,4,5,5,4,2,4,3,4,4,3
+Diagnosing whether a person has depression,female,,36-45,4,3,4,4,5,4,4,5,5,3,3,4,3,3
+Diagnosing whether a person has depression,male,,26-35,4,4,4,4,4,5,5,4,5,4,2,2,2,3
+Diagnosing whether a person has the flu,female,,46-55,3,2,4,2,2,4,4,4,3,4,4,4,4,2
+Diagnosing whether a person has the flu,female,,26-35,4,4,5,4,4,5,5,4,4,4,2,5,3,3
+Diagnosing whether a person has the flu,female,,36-45,3,5,2,2,2,4,4,4,4,4,2,5,2,4
+Diagnosing whether a person has the flu,female,,18-25,3,3,1,1,2,3,5,4,2,4,5,3,5,1
+Diagnosing whether a person has the flu,male,,36-45,4,5,5,4,3,5,5,4,4,5,2,4,2,3
+Drawing or painting something (making art),male,,26-35,4,5,1,5,5,5,5,3,4,3,2,2,3,3
+Drawing or painting something (making art),male,,26-35,4,5,1,5,5,5,5,1,1,1,1,1,1,4
+Drawing or painting something (making art),male,,26-35,4,5,4,5,4,4,4,2,3,2,3,4,3,3
+Drawing or painting something (making art),male,,26-35,4,5,2,5,4,3,4,3,4,2,3,4,3,3
+Drawing or painting something (making art),female,,46-55,3,5,2,4,4,4,4,3,3,2,4,3,4,3
+Driving a truck delivering goods/cargo between cities,male,,26-35,4,2,2,3,4,4,4,4,3,5,3,3,3,3
+Driving a truck delivering goods/cargo between cities,male,,56-65,3,4,1,1,4,2,5,3,2,2,4,2,3,1
+Driving a truck delivering goods/cargo between cities,male,,36-45,4,2,3,1,4,3,4,4,3,3,4,2,4,3
+Driving a truck delivering goods/cargo between cities,female,,36-45,3,5,1,1,4,4,4,4,2,3,4,4,4,1
+Driving a truck delivering goods/cargo between cities,male,,36-45,4,5,5,3,5,4,4,5,4,4,2,4,4,3
+Driving to work,female,,56-65,3,2,1,2,4,5,5,4,4,4,4,3,1,3
+Driving to work,female,,46-55,3,5,2,2,3,4,4,4,5,5,2,2,2,4
+Driving to work,female,,26-35,1,5,5,3,3,5,5,5,5,5,1,1,1,4
+Driving to work,male,,18-25,4,3,2,3,2,4,5,4,2,5,4,2,4,2
+Driving to work,female,,36-45,3,3,2,3,4,5,5,5,4,5,1,2,2,4
+"Editing an internet forum comment before you post it (e.g., for maximum popularity)",female,,26-35,3,5,4,4,3,4,4,3,3,3,4,4,4,4
+"Editing an internet forum comment before you post it (e.g., for maximum popularity)",male,,36-45,3,5,5,5,4,3,5,5,4,2,4,3,5,2
+"Editing an internet forum comment before you post it (e.g., for maximum popularity)",female,,36-45,3,5,4,4,3,2,4,2,2,2,4,4,4,3
+"Editing an internet forum comment before you post it (e.g., for maximum popularity)",male,,56-65,4,5,4,4,3,2,4,3,4,3,1,4,3,4
+"Editing an internet forum comment before you post it (e.g., for maximum popularity)",male,,36-45,4,3,4,4,2,4,5,4,3,4,4,4,4,1
+Establishing compensation/wage/salary level for an employee,female,,66-75,3,2,2,2,2,2,4,4,4,4,3,4,2,2
+Establishing compensation/wage/salary level for an employee,male,,26-35,3,5,3,3,3,4,2,4,4,5,1,1,1,4
+Establishing compensation/wage/salary level for an employee,female,,36-45,4,4,2,2,4,2,5,4,2,4,4,4,3,3
+Establishing compensation/wage/salary level for an employee,female,,36-45,3,4,5,3,4,2,4,5,2,5,1,1,1,3
+Establishing compensation/wage/salary level for an employee,male,,26-35,4,5,4,5,4,4,4,4,4,3,4,4,4,2
+Explaining the diagnosis and treatment options for the flu to a patient ,female,,26-35,4,5,4,1,2,4,4,4,3,4,4,3,4,3
+Explaining the diagnosis and treatment options for the flu to a patient ,male,,36-45,5,2,2,2,3,3,4,4,3,3,4,4,4,3
+Explaining the diagnosis and treatment options for the flu to a patient ,male,,26-35,3,5,4,4,4,4,4,3,4,4,4,4,4,2
+Explaining the diagnosis and treatment options for the flu to a patient ,female,,26-35,4,5,4,1,2,3,5,3,1,2,4,2,4,3
+Explaining the diagnosis and treatment options for the flu to a patient ,male,,36-45,4,4,3,2,2,4,4,5,3,3,3,3,3,3
+Explaining the diagnosis and treatment options of cancer to a patient ,female,,26-35,3,3,4,1,3,5,4,4,3,5,2,2,2,4
+Explaining the diagnosis and treatment options of cancer to a patient ,female,,56-65,2,3,5,3,4,4,4,4,3,4,2,2,2,4
+Explaining the diagnosis and treatment options of cancer to a patient ,female,,36-45,3,5,4,4,4,4,4,4,3,4,2,4,2,3
+Explaining the diagnosis and treatment options of cancer to a patient ,female,,36-45,3,2,5,2,3,5,5,5,2,5,3,2,3,4
+Explaining the diagnosis and treatment options of cancer to a patient ,female,,36-45,4,3,4,2,2,4,4,4,3,5,3,3,3,3
+Explaining the diagnosis and treatment options of depression to a patient ,female,,26-35,3,5,4,4,5,4,4,5,4,5,2,4,2,3
+Explaining the diagnosis and treatment options of depression to a patient ,female,,26-35,4,5,5,3,4,5,5,5,5,5,1,5,1,4
+Explaining the diagnosis and treatment options of depression to a patient ,female,,46-55,4,1,3,3,4,4,3,4,4,4,4,4,3,2
+Explaining the diagnosis and treatment options of depression to a patient ,female,,18-25,4,3,5,5,5,5,5,4,3,3,2,4,2,4
+Explaining the diagnosis and treatment options of depression to a patient ,female,,46-55,3,5,5,3,3,4,4,4,5,5,2,5,2,4
+Filling out and submitting your federal tax return paperwork,female,,26-35,4,3,1,1,4,4,4,4,2,4,5,3,4,2
+Filling out and submitting your federal tax return paperwork,female,,18-25,4,3,5,5,5,4,4,3,2,5,2,4,4,3
+Filling out and submitting your federal tax return paperwork,male,,26-35,2,5,4,3,4,5,5,5,5,5,1,4,1,4
+Filling out and submitting your federal tax return paperwork,male,,26-35,4,3,1,2,4,2,5,5,2,5,4,1,4,3
+Filling out and submitting your federal tax return paperwork,female,,18-25,4,3,4,2,5,2,4,2,4,2,2,4,4,3
+Finding and rescuing survivors after earthquakes,male,,18-25,3,3,5,4,5,5,5,3,5,5,3,3,3,3
+Finding and rescuing survivors after earthquakes,female,,36-45,4,4,1,2,4,3,4,2,4,3,5,5,4,3
+Finding and rescuing survivors after earthquakes,male,,26-35,4,3,4,5,4,3,3,3,3,4,4,4,4,3
+Finding and rescuing survivors after earthquakes,male,,36-45,4,3,4,3,5,4,3,4,3,5,2,4,1,3
+Finding and rescuing survivors after earthquakes,female,,36-45,4,3,3,4,4,4,3,4,3,4,3,4,4,2
+Finding people who might like to meet for a date,male,,18-25,4,3,5,4,4,3,2,2,3,4,3,2,4,3
+Finding people who might like to meet for a date,female,,36-45,4,5,4,2,2,1,5,3,3,1,3,3,2,1
+Finding people who might like to meet for a date,female,,46-55,4,5,5,3,4,4,5,3,4,3,4,4,3,2
+Finding people who might like to meet for a date,female,,36-45,4,5,4,4,2,2,4,2,4,2,4,4,4,2
+Finding people who might like to meet for a date,female,,56-65,2,2,4,4,4,2,5,3,2,2,4,4,4,3
+Finding products you might be interested in while you're shopping,male,,36-45,3,3,2,1,3,1,5,3,2,1,3,4,2,3
+Finding products you might be interested in while you're shopping,female,,18-25,5,3,4,4,3,2,5,3,3,2,4,4,4,2
+Finding products you might be interested in while you're shopping,male,,26-35,4,2,2,4,4,3,4,4,4,3,5,4,4,3
+Finding products you might be interested in while you're shopping,male,,26-35,4,5,4,4,5,4,4,5,2,4,5,2,5,2
+Finding products you might be interested in while you're shopping,female,,26-35,3,4,2,2,2,2,5,2,2,2,5,4,4,2
+Guiding and explaining exhibits in a museum (similar to what a museum tour guide might do),male,,36-45,4,5,4,2,4,3,4,3,3,1,5,4,4,2
+Guiding and explaining exhibits in a museum (similar to what a museum tour guide might do),male,,36-45,4,5,4,4,3,4,5,2,1,2,4,3,4,2
+Guiding and explaining exhibits in a museum (similar to what a museum tour guide might do),female,,36-45,4,2,2,2,4,4,4,4,2,2,4,2,4,1
+Guiding and explaining exhibits in a museum (similar to what a museum tour guide might do),male,,26-35,4,5,2,2,2,4,4,4,2,1,5,2,5,1
+Guiding and explaining exhibits in a museum (similar to what a museum tour guide might do),female,,26-35,3,5,4,2,4,5,4,4,4,2,4,2,2,3
+"Helping elderly individuals to increase their mobility by guiding them through crowded public spaces (e.g., walking to the grocery store)",male,,26-35,5,5,2,2,4,2,5,3,4,2,5,2,5,2
+"Helping elderly individuals to increase their mobility by guiding them through crowded public spaces (e.g., walking to the grocery store)",female,,26-35,3,4,4,4,5,4,4,4,4,5,4,4,4,2
+"Helping elderly individuals to increase their mobility by guiding them through crowded public spaces (e.g., walking to the grocery store)",male,,26-35,4,5,4,4,4,4,5,4,5,5,2,4,2,4
+"Helping elderly individuals to increase their mobility by guiding them through crowded public spaces (e.g., walking to the grocery store)",female,,26-35,5,3,4,3,4,3,4,4,4,4,4,4,3,3
+"Helping elderly individuals to increase their mobility by guiding them through crowded public spaces (e.g., walking to the grocery store)",female,,18-25,4,5,2,3,2,2,4,4,3,2,4,4,4,2
+"Helping stroke patients with physical rehabilitation, by guiding or assisting with exercise motions when needed (similar to what a physical therapist might do as part of their job)",male,,26-35,5,5,5,3,4,3,5,3,4,5,3,4,3,3
+"Helping stroke patients with physical rehabilitation, by guiding or assisting with exercise motions when needed (similar to what a physical therapist might do as part of their job)",female,,46-55,3,5,5,4,4,5,5,5,4,5,1,5,1,3
+"Helping stroke patients with physical rehabilitation, by guiding or assisting with exercise motions when needed (similar to what a physical therapist might do as part of their job)",male,,18-25,5,5,5,5,5,5,5,5,5,5,2,5,2,3
+"Helping stroke patients with physical rehabilitation, by guiding or assisting with exercise motions when needed (similar to what a physical therapist might do as part of their job)",female,,26-35,4,5,2,2,3,4,4,4,3,4,3,4,3,3
+"Helping stroke patients with physical rehabilitation, by guiding or assisting with exercise motions when needed (similar to what a physical therapist might do as part of their job)",female,,26-35,5,2,4,4,4,4,4,3,3,3,4,4,4,4
+Helping to locate a missing child by searching public spaces,female,,26-35,4,4,5,5,5,1,5,3,1,5,1,1,1,3
+Helping to locate a missing child by searching public spaces,male,,26-35,3,5,4,3,4,4,4,3,4,4,4,4,4,3
+Helping to locate a missing child by searching public spaces,male,,46-55,4,5,5,5,5,4,5,3,5,5,2,4,3,3
+Helping to locate a missing child by searching public spaces,male,,26-35,3,3,4,4,4,2,4,3,3,5,2,3,3,3
+Helping to locate a missing child by searching public spaces,male,,18-25,5,3,1,5,5,3,5,1,5,5,1,1,2,4
+Identifying and flagging fake/deceptive news articles,blank,,blank,5,blank,4,2,2,2,5,5,1,1,3,4,2,2
+Identifying and flagging fake/deceptive news articles,female,,56-65,4,3,2,2,4,3,5,3,4,2,3,5,3,2
+Identifying and flagging fake/deceptive news articles,male,,26-35,5,5,4,5,5,5,4,4,2,3,3,4,3,2
+Identifying and flagging fake/deceptive news articles,female,,26-35,3,3,3,3,3,3,3,3,4,4,3,5,3,2
+Identifying and flagging fake/deceptive news articles,female,,56-65,4,3,2,2,3,3,5,3,2,2,2,5,2,3
+Identifying and flagging online hate speech,male,,26-35,4,5,4,3,5,4,2,2,4,2,1,5,2,2
+Identifying and flagging online hate speech,female,,46-55,4,5,4,2,3,2,4,3,4,4,4,3,4,2
+Identifying and flagging online hate speech,male,,36-45,5,1,5,4,4,5,4,5,4,5,4,5,5,2
+Identifying and flagging online hate speech,male,,26-35,4,5,4,4,4,4,4,4,4,4,4,4,4,2
+Identifying and flagging online hate speech,male,,26-35,4,5,4,4,4,3,5,3,3,2,2,4,2,3
+Identifying people who attended a political rally,female,,56-65,3,5,4,2,4,2,4,4,2,1,2,4,2,3
+Identifying people who attended a political rally,female,,46-55,1,5,3,2,3,3,3,4,4,4,4,4,4,4
+Identifying people who attended a political rally,female,,46-55,3,3,2,2,5,2,3,2,2,2,5,4,3,1
+Identifying people who attended a political rally,male,,18-25,4,5,4,3,3,2,3,4,3,4,3,2,3,3
+Identifying people who attended a political rally,male,,56-65,2,4,4,4,3,4,5,4,3,3,4,4,4,2
+"Identifying the social relationship between two people (e.g., are they friends, a couple, strangers, siblings)",female,,36-45,4,5,4,2,2,3,4,3,2,2,2,2,2,4
+"Identifying the social relationship between two people (e.g., are they friends, a couple, strangers, siblings)",male,,36-45,3,4,4,3,3,4,3,4,3,4,2,4,2,3
+"Identifying the social relationship between two people (e.g., are they friends, a couple, strangers, siblings)",male,,56-65,4,5,5,2,4,4,4,5,4,2,1,5,1,3
+"Identifying the social relationship between two people (e.g., are they friends, a couple, strangers, siblings)",female,,56-65,3,4,4,4,3,3,4,2,3,3,3,5,3,3
+"Identifying the social relationship between two people (e.g., are they friends, a couple, strangers, siblings)",female,,36-45,3,5,4,3,4,4,4,4,3,2,3,4,3,3
+"In court, determining a defendant's risk (e.g., in committing another crime or missing the court date), to help judges make decisions about bail, sentencing, or parole",female,,46-55,4,5,3,3,5,4,5,4,3,5,2,5,3,3
+"In court, determining a defendant's risk (e.g., in committing another crime or missing the court date), to help judges make decisions about bail, sentencing, or parole",female,,26-35,4,5,5,4,5,5,5,5,5,5,1,1,1,4
+"In court, determining a defendant's risk (e.g., in committing another crime or missing the court date), to help judges make decisions about bail, sentencing, or parole",female,,26-35,4,5,4,2,5,4,4,4,4,4,3,5,3,3
+"In court, determining a defendant's risk (e.g., in committing another crime or missing the court date), to help judges make decisions about bail, sentencing, or parole",female,,46-55,4,5,5,4,2,3,4,5,3,5,2,5,2,4
+"In court, determining a defendant's risk (e.g., in committing another crime or missing the court date), to help judges make decisions about bail, sentencing, or parole",female,,26-35,4,5,2,2,5,4,4,4,2,4,4,2,4,2
+Inferring damage for insurance purposes after a car accident,male,,46-55,5,5,2,2,4,4,4,4,4,4,2,4,2,3
+Inferring damage for insurance purposes after a car accident,female,,26-35,4,5,1,1,4,4,4,5,4,5,5,5,4,2
+Inferring damage for insurance purposes after a car accident,male,,26-35,2,5,3,4,5,5,4,5,3,4,4,4,4,3
+Inferring damage for insurance purposes after a car accident,male,,26-35,1,3,3,3,4,5,4,4,4,3,4,4,4,2
+Inferring damage for insurance purposes after a car accident,male,,26-35,3,5,4,4,5,4,4,4,4,4,4,4,4,3
+Interviewing job applicants and rating candidates,female,,26-35,4,4,4,3,3,2,4,2,4,2,2,4,2,3
+Interviewing job applicants and rating candidates,female,,36-45,3,5,5,2,4,4,4,5,5,4,4,3,2,3
+Interviewing job applicants and rating candidates,male,,56-65,3,2,4,4,4,4,5,4,4,4,1,4,2,4
+Interviewing job applicants and rating candidates,female,,18-25,4,3,5,1,4,4,5,4,4,4,2,4,2,3
+Interviewing job applicants and rating candidates,other,Non-binary,26-35,3,3,5,4,4,4,5,3,4,3,3,5,1,4
+Managing your personal finances/investments (similar to what a financial advisor might do),female,,18-25,4,3,3,2,3,4,4,4,3,4,2,3,3,3
+Managing your personal finances/investments (similar to what a financial advisor might do),male,,46-55,3,3,4,4,2,4,4,5,4,5,4,5,4,3
+Managing your personal finances/investments (similar to what a financial advisor might do),male,,26-35,3,5,4,4,5,5,4,5,4,5,3,5,3,3
+Managing your personal finances/investments (similar to what a financial advisor might do),male,,36-45,5,5,4,4,5,4,4,5,4,4,2,4,3,3
+Managing your personal finances/investments (similar to what a financial advisor might do),female,,26-35,5,5,5,4,4,5,5,5,3,5,1,4,2,3
+"Monitoring a person's driving and intervening when they're distracted/in danger of making a mistake (e.g., emergency braking)",male,,26-35,4,2,2,4,4,4,4,4,4,5,1,2,2,3
+"Monitoring a person's driving and intervening when they're distracted/in danger of making a mistake (e.g., emergency braking)",male,,18-25,4,5,1,4,2,3,4,5,5,5,4,5,4,3
+"Monitoring a person's driving and intervening when they're distracted/in danger of making a mistake (e.g., emergency braking)",male,,36-45,5,4,5,3,3,4,5,5,5,5,2,5,1,3
+"Monitoring a person's driving and intervening when they're distracted/in danger of making a mistake (e.g., emergency braking)",female,,36-45,4,3,2,4,2,2,2,3,2,4,4,2,3,2
+"Monitoring a person's driving and intervening when they're distracted/in danger of making a mistake (e.g., emergency braking)",female,,36-45,5,3,4,5,2,4,3,5,5,5,2,4,2,3
+"Monitoring farm animals' (e.g., cows) behavior, predicting health issues, and alerting the farmer.",male,,18-25,4,5,2,1,4,2,2,2,4,4,4,2,4,1
+"Monitoring farm animals' (e.g., cows) behavior, predicting health issues, and alerting the farmer.",male,,26-35,3,3,2,4,4,4,4,4,5,4,3,4,3,3
+"Monitoring farm animals' (e.g., cows) behavior, predicting health issues, and alerting the farmer.",female,,36-45,3,3,2,1,3,4,5,3,4,3,5,5,5,2
+"Monitoring farm animals' (e.g., cows) behavior, predicting health issues, and alerting the farmer.",male,,26-35,5,5,4,5,5,5,5,4,5,4,2,4,1,3
+"Monitoring farm animals' (e.g., cows) behavior, predicting health issues, and alerting the farmer.",female,,26-35,4,5,2,1,5,4,4,4,3,3,5,5,4,2
+Monitoring your health and alerting when you should go to the doctor,male,,26-35,5,5,2,2,4,5,5,5,4,5,3,2,4,3
+Monitoring your health and alerting when you should go to the doctor,male,,36-45,4,5,4,3,2,5,4,5,3,4,4,5,4,2
+Monitoring your health and alerting when you should go to the doctor,female,,46-55,4,5,2,1,2,4,4,4,3,4,4,3,4,2
+Monitoring your health and alerting when you should go to the doctor,female,,26-35,3,5,2,1,4,4,4,2,3,5,5,3,5,2
+Monitoring your health and alerting when you should go to the doctor,female,,46-55,3,3,5,5,5,5,5,5,5,5,5,5,5,2
+Moving & packing merchandise in a warehouse for shipping to customers,male,,46-55,4,5,2,2,4,2,4,2,2,2,5,2,5,2
+Moving & packing merchandise in a warehouse for shipping to customers,female,,36-45,3,5,1,1,3,1,4,5,2,2,5,1,5,1
+Moving & packing merchandise in a warehouse for shipping to customers,female,,36-45,5,5,3,3,3,5,5,5,5,5,3,3,3,2
+Moving & packing merchandise in a warehouse for shipping to customers,male,,26-35,1,5,4,4,2,2,4,4,3,2,3,4,3,3
+Moving & packing merchandise in a warehouse for shipping to customers,female,,26-35,4,3,1,2,4,2,5,4,2,1,5,2,4,3
+Picking a movie to watch,male,,18-25,4,3,1,1,1,1,1,1,1,1,5,1,5,1
+Picking a movie to watch,female,,26-35,3,3,1,1,2,1,4,2,1,1,4,4,3,2
+Picking a movie to watch,male,,56-65,3,4,2,2,2,2,4,2,2,2,3,2,4,3
+Picking a movie to watch,male,,56-65,3,3,2,2,3,2,4,1,2,1,4,3,4,2
+Picking a movie to watch,male,,26-35,5,2,4,2,4,1,2,4,4,2,2,4,5,1
+Picking a movie to watch with a group of friends,male,,26-35,4,5,4,2,1,2,4,1,3,1,4,3,4,3
+Picking a movie to watch with a group of friends,female,,36-45,3,3,5,2,1,1,5,1,1,1,2,4,2,4
+Picking a movie to watch with a group of friends,male,,26-35,5,4,4,3,2,2,5,4,2,4,5,4,5,2
+Picking a movie to watch with a group of friends,male,,26-35,2,5,4,4,2,1,5,2,3,2,4,4,4,3
+Picking a movie to watch with a group of friends,male,,26-35,4,3,4,2,2,4,4,2,4,1,3,4,4,3
+Picking a topic to write a short story about,female,,26-35,3,3,4,4,2,2,5,3,2,1,3,3,3,4
+Picking a topic to write a short story about,male,,46-55,4,2,2,2,1,2,4,2,1,1,4,2,1,3
+Picking a topic to write a short story about,male,,56-65,3,5,2,4,2,2,4,2,2,1,2,4,2,3
+Picking a topic to write a short story about,female,,36-45,3,5,5,5,5,4,4,4,4,4,2,4,2,3
+Picking a topic to write a short story about,female,,26-35,4,5,2,4,5,2,5,3,4,2,1,1,1,3
+Picking jobs to apply to,male,,26-35,4,3,4,3,2,2,4,3,2,2,4,3,4,3
+Picking jobs to apply to,male,,26-35,4,5,4,3,2,4,3,4,3,4,4,3,3,1
+Picking jobs to apply to,male,,36-45,4,5,4,3,5,3,4,4,2,3,3,4,3,3
+Picking jobs to apply to,male,,26-35,5,5,4,4,4,2,4,2,2,2,3,1,4,2
+Picking jobs to apply to,male,,26-35,5,3,5,3,5,3,3,5,4,3,2,5,3,3
+Picking out and buying a birthday present for an acquaintance,female,,46-55,4,5,4,4,2,2,5,1,2,3,4,4,4,3
+Picking out and buying a birthday present for an acquaintance,female,,26-35,4,3,5,4,3,1,4,3,4,2,2,4,3,3
+Picking out and buying a birthday present for an acquaintance,female,,46-55,3,5,4,3,2,2,5,2,3,1,3,4,3,3
+Picking out and buying a birthday present for an acquaintance,male,,36-45,4,3,4,4,3,3,4,3,3,3,4,4,4,4
+Picking out and buying a birthday present for an acquaintance,male,,36-45,5,2,5,5,4,3,5,4,3,1,2,3,1,4
+Picking songs to listen to,male,,26-35,5,2,1,5,2,3,5,3,3,1,4,5,5,3
+Picking songs to listen to,female,,26-35,3,4,4,5,2,2,4,1,1,1,1,1,1,4
+Picking songs to listen to,male,,36-45,3,3,2,2,5,4,4,3,2,4,4,4,4,3
+Picking songs to listen to,female,,36-45,1,4,4,5,2,2,4,4,3,2,4,3,4,3
+Picking songs to listen to,male,,36-45,4,5,4,2,2,1,5,1,3,1,5,2,4,1
+Picking which advertisements to show to people on social media websites,male,,18-25,4,5,2,1,4,2,5,2,4,1,5,3,5,1
+Picking which advertisements to show to people on social media websites,female,,66-75,3,5,5,5,3,5,5,5,2,3,5,4,3,2
+Picking which advertisements to show to people on social media websites,female,,46-55,4,5,5,5,4,4,4,3,4,2,2,4,1,3
+Picking which advertisements to show to people on social media websites,female,,26-35,4,5,4,3,4,2,4,2,2,1,4,2,4,2
+Picking which advertisements to show to people on social media websites,female,,26-35,5,5,4,4,4,4,4,3,4,3,3,3,4,3
+Picking which news stories to show to people on social media websites,female,,26-35,4,5,4,3,2,1,4,3,2,1,4,1,3,2
+Picking which news stories to show to people on social media websites,female,,26-35,4,5,4,3,3,4,5,3,4,2,3,5,2,3
+Picking which news stories to show to people on social media websites,male,,36-45,4,3,2,2,1,2,4,2,1,1,5,4,4,1
+Picking which news stories to show to people on social media websites,male,,26-35,5,5,2,1,2,2,4,1,2,1,4,2,4,1
+Picking which news stories to show to people on social media websites,male,,26-35,4,3,5,5,5,5,5,5,1,1,1,5,1,3
+Planning menus and developing recipes at a restaurant,male,,26-35,3,5,3,5,4,4,5,4,5,5,4,5,3,2
+Planning menus and developing recipes at a restaurant,male,,46-55,5,4,2,4,4,2,5,3,1,1,3,1,2,3
+Planning menus and developing recipes at a restaurant,female,,26-35,5,3,4,5,5,5,5,5,5,3,1,2,1,4
+Planning menus and developing recipes at a restaurant,male,,26-35,1,4,3,4,3,3,4,4,3,3,4,3,4,3
+Planning menus and developing recipes at a restaurant,female,,46-55,2,5,4,4,4,3,4,4,2,2,4,4,4,3
+"Playing a board game (e.g., Monopoly, Scrabble)",female,,26-35,3,5,3,4,4,2,3,3,2,2,3,3,2,3
+"Playing a board game (e.g., Monopoly, Scrabble)",female,,18-25,4,5,2,2,2,2,4,2,2,1,4,2,4,1
+"Playing a board game (e.g., Monopoly, Scrabble)",female,,36-45,4,5,4,5,5,3,4,3,2,1,4,4,4,3
+"Playing a board game (e.g., Monopoly, Scrabble)",female,,26-35,3,5,4,4,4,2,4,2,2,1,4,4,3,3
+"Playing a board game (e.g., Monopoly, Scrabble)",female,,26-35,3,5,2,2,2,2,4,2,3,2,4,2,3,1
+"Playing a competitive game (e.g., poker, Starcraft, Dota2)",female,,26-35,3,5,2,3,3,2,4,2,2,2,4,3,3,1
+"Playing a competitive game (e.g., poker, Starcraft, Dota2)",female,,26-35,3,5,2,2,4,4,4,2,2,1,5,2,3,3
+"Playing a competitive game (e.g., poker, Starcraft, Dota2)",female,,26-35,4,3,2,2,4,2,4,2,2,2,4,4,4,1
+"Playing a competitive game (e.g., poker, Starcraft, Dota2)",female,,26-35,3,3,5,5,5,5,5,4,5,5,5,5,5,1
+"Playing a competitive game (e.g., poker, Starcraft, Dota2)",male,,26-35,4,5,4,4,5,5,4,4,3,1,2,3,2,3
+Predicting the sale value of a real estate property,female,,56-65,4,5,4,5,3,5,4,4,5,4,4,5,4,2
+Predicting the sale value of a real estate property,male,,26-35,4,3,2,2,5,5,5,5,4,5,2,4,2,3
+Predicting the sale value of a real estate property,female,,26-35,4,5,2,2,3,4,4,4,2,1,2,4,2,3
+Predicting the sale value of a real estate property,female,,26-35,4,5,2,3,4,5,3,3,5,5,3,4,3,2
+Predicting the sale value of a real estate property,male,,26-35,3,5,2,2,4,3,5,5,3,4,3,5,3,3
+Predicting the sexual orientation of a person,male,,26-35,5,3,2,3,2,2,4,4,3,2,4,4,4,3
+Predicting the sexual orientation of a person,female,,26-35,3,4,4,3,2,2,4,2,2,2,4,5,4,3
+Predicting the sexual orientation of a person,female,,66-75,4,5,1,1,1,1,1,1,1,1,1,1,1,4
+Predicting the sexual orientation of a person,male,,36-45,5,3,5,5,5,5,5,5,5,3,5,5,5,1
+Predicting the sexual orientation of a person,female,,46-55,3,4,2,3,2,2,4,2,2,3,3,2,3,3
+"Providing and coordinating patient care in a health facility, similar to a small part of what a Registered Nurse might do.",male,,36-45,3,5,4,2,3,5,5,5,4,5,1,5,2,3
+"Providing and coordinating patient care in a health facility, similar to a small part of what a Registered Nurse might do.",female,,26-35,4,3,5,4,4,5,4,5,4,5,2,4,3,3
+"Providing and coordinating patient care in a health facility, similar to a small part of what a Registered Nurse might do.",male,,46-55,4,5,5,4,4,4,5,5,5,4,3,3,3,3
+"Providing and coordinating patient care in a health facility, similar to a small part of what a Registered Nurse might do.",male,,36-45,5,5,5,3,4,5,5,5,3,4,4,4,4,3
+"Providing and coordinating patient care in a health facility, similar to a small part of what a Registered Nurse might do.",female,,36-45,4,3,5,4,4,5,5,4,5,5,2,4,2,3
+Reading bedtime stories to your child,male,,26-35,4,5,4,3,4,2,4,1,2,3,4,5,4,4
+Reading bedtime stories to your child,male,,36-45,5,3,2,4,4,1,4,2,2,1,4,3,4,2
+Reading bedtime stories to your child,female,,26-35,4,5,5,5,4,2,5,4,2,2,4,5,4,3
+Reading bedtime stories to your child,female,,56-65,3,4,4,4,3,2,4,4,4,3,3,4,3,4
+Reading bedtime stories to your child,female,,18-25,4,3,2,2,4,2,4,2,2,2,4,4,4,3
+"Responding to 911-police incident reports, similar to what a patrol officer might do",female,,18-25,3,3,4,3,3,5,4,5,5,5,3,3,3,3
+"Responding to 911-police incident reports, similar to what a patrol officer might do",female,,46-55,5,3,1,5,5,5,5,5,5,5,1,5,3,3
+"Responding to 911-police incident reports, similar to what a patrol officer might do",male,,26-35,5,4,4,4,5,4,4,5,3,3,3,4,3,3
+"Responding to 911-police incident reports, similar to what a patrol officer might do",female,,18-25,3,3,5,5,5,5,5,5,5,5,2,5,2,3
+"Responding to 911-police incident reports, similar to what a patrol officer might do",male,,26-35,2,4,4,4,4,5,4,5,4,4,2,4,2,3
+Responding to emails at work,male,,18-25,5,5,4,4,4,4,3,3,4,3,3,4,3,1
+Responding to emails at work,female,,46-55,4,5,4,2,3,2,5,4,3,2,1,1,1,4
+Responding to emails at work,female,,66-75,3,2,4,4,4,2,4,4,4,4,2,5,2,3
+Responding to emails at work,male,,46-55,4,5,2,2,2,2,4,3,3,4,4,2,4,2
+Responding to emails at work,male,,36-45,4,5,5,4,4,4,5,4,4,5,2,4,1,3
+Reviewing a book or a movie,male,,36-45,3,5,5,5,3,3,4,3,3,2,2,5,2,4
+Reviewing a book or a movie,female,,26-35,3,3,4,2,4,2,5,4,4,2,2,4,2,3
+Reviewing a book or a movie,male,,26-35,5,4,4,4,2,2,5,4,3,2,3,4,3,4
+Reviewing a book or a movie,female,,36-45,5,5,5,5,4,2,5,2,4,1,2,3,2,4
+Reviewing a book or a movie,male,,46-55,4,5,4,4,4,3,4,3,2,2,3,3,3,3
+Scheduling an important business meeting with several co-workers,male,,46-55,1,5,3,2,3,3,4,4,4,4,3,3,3,2
+Scheduling an important business meeting with several co-workers,male,,26-35,4,3,2,2,2,2,4,4,4,3,4,2,3,2
+Scheduling an important business meeting with several co-workers,male,,36-45,4,3,2,2,1,2,5,4,4,2,4,2,4,2
+Scheduling an important business meeting with several co-workers,female,,46-55,5,5,2,4,4,2,4,4,2,2,4,2,3,2
+Scheduling an important business meeting with several co-workers,female,,26-35,5,5,5,4,4,2,5,4,3,2,1,4,1,3
+Serving food to customers at a restaurant,female,,26-35,4,3,1,1,1,3,4,2,2,2,4,4,4,2
+Serving food to customers at a restaurant,female,,18-25,5,5,5,1,4,4,4,5,4,4,3,4,4,3
+Serving food to customers at a restaurant,female,,46-55,4,5,5,5,4,2,5,5,5,1,1,5,2,4
+Serving food to customers at a restaurant,female,,36-45,2,4,4,2,3,2,4,3,4,1,3,2,4,4
+Serving food to customers at a restaurant,male,,36-45,4,5,4,3,2,4,4,5,4,2,2,4,2,4
+Serving on jury duty: deciding if a defendant is innocent or guilty,female,,46-55,4,3,4,3,4,3,5,5,4,3,2,2,2,4
+Serving on jury duty: deciding if a defendant is innocent or guilty,male,,26-35,4,5,4,2,3,1,4,3,3,4,3,4,3,3
+Serving on jury duty: deciding if a defendant is innocent or guilty,female,,46-55,3,3,2,2,4,4,4,3,3,3,4,4,4,1
+Serving on jury duty: deciding if a defendant is innocent or guilty,female,,36-45,3,3,5,3,5,2,4,5,2,3,5,5,5,3
+Serving on jury duty: deciding if a defendant is innocent or guilty,female,,36-45,4,5,4,2,4,2,4,4,4,5,3,4,3,3
+Setting tariffs on goods imported from China,male,,36-45,5,5,4,5,4,5,3,5,3,5,3,5,2,3
+Setting tariffs on goods imported from China,female,,26-35,4,3,4,3,4,5,5,5,4,5,2,4,2,3
+Setting tariffs on goods imported from China,male,,18-25,3,3,3,3,4,3,4,3,4,3,3,3,3,3
+Setting tariffs on goods imported from China,female,,26-35,4,5,1,1,2,2,4,4,3,2,4,4,4,1
+Setting tariffs on goods imported from China,female,,46-55,4,4,4,4,4,4,4,4,4,4,2,2,2,3
+"Taking photos of a planned event, such as a wedding or graduation, similar to what a professional photographer might do.",male,,26-35,5,2,4,4,3,3,4,4,3,2,3,3,3,4
+"Taking photos of a planned event, such as a wedding or graduation, similar to what a professional photographer might do.",male,,36-45,4,5,4,4,5,4,4,4,5,4,3,4,3,3
+"Taking photos of a planned event, such as a wedding or graduation, similar to what a professional photographer might do.",male,,26-35,5,4,4,5,4,4,5,4,4,4,2,4,2,4
+"Taking photos of a planned event, such as a wedding or graduation, similar to what a professional photographer might do.",female,,36-45,4,5,5,5,4,3,5,4,2,1,2,3,1,4
+"Taking photos of a planned event, such as a wedding or graduation, similar to what a professional photographer might do.",female,,26-35,3,4,5,5,5,4,5,4,2,3,2,4,1,3
+"Teaching a religion's doctrine and practices to followers, similar to some of the responsibilities of clergy/religious leaders",male,,26-35,4,5,4,2,2,4,4,2,2,2,4,4,4,3
+"Teaching a religion's doctrine and practices to followers, similar to some of the responsibilities of clergy/religious leaders",female,,36-45,4,5,5,4,4,4,5,3,4,2,2,4,2,3
+"Teaching a religion's doctrine and practices to followers, similar to some of the responsibilities of clergy/religious leaders",male,,18-25,4,3,4,2,5,5,3,3,4,4,2,3,3,3
+"Teaching a religion's doctrine and practices to followers, similar to some of the responsibilities of clergy/religious leaders",female,,56-65,4,2,4,4,4,4,4,3,2,4,2,3,2,4
+"Teaching a religion's doctrine and practices to followers, similar to some of the responsibilities of clergy/religious leaders",male,,36-45,5,5,4,2,5,5,5,2,4,5,3,4,4,3
+"Teaching your child elementary school math (e.g., multiplication, fractions)",male,,26-35,4,5,4,5,5,4,5,4,2,4,3,4,4,3
+"Teaching your child elementary school math (e.g., multiplication, fractions)",male,,18-25,5,5,2,2,3,3,5,1,2,3,4,5,2,2
+"Teaching your child elementary school math (e.g., multiplication, fractions)",male,,26-35,4,5,4,4,5,5,4,5,4,5,2,5,3,3
+"Teaching your child elementary school math (e.g., multiplication, fractions)",female,,36-45,3,5,4,4,3,3,4,4,3,4,2,4,3,3
+"Teaching your child elementary school math (e.g., multiplication, fractions)",female,,46-55,4,5,4,4,5,4,5,1,3,2,3,5,2,2
+Telling a joke,male,,36-45,4,5,4,5,4,5,4,4,3,4,4,4,4,3
+Telling a joke,male,,26-35,4,4,5,4,4,5,5,3,1,2,1,2,3,4
+Telling a joke,female,,26-35,4,5,4,4,2,1,5,1,4,1,2,2,3,4
+Telling a joke,female,,46-55,3,3,3,3,2,2,5,1,3,1,3,1,1,4
+Telling a joke,female,,36-45,3,3,5,4,3,2,3,2,2,1,4,3,3,3
+Thinking of conversation topics while hanging out with friends,female,,26-35,5,3,5,5,3,2,5,2,2,2,4,2,2,3
+Thinking of conversation topics while hanging out with friends,male,,56-65,3,3,2,4,1,2,4,1,2,2,3,4,3,2
+Thinking of conversation topics while hanging out with friends,female,,46-55,3,3,4,4,3,3,5,2,4,1,3,1,3,4
+Thinking of conversation topics while hanging out with friends,male,,18-25,4,5,4,4,2,2,3,2,2,2,3,2,3,3
+Thinking of conversation topics while hanging out with friends,female,,26-35,5,5,4,4,3,4,4,2,3,3,4,4,4,3
+Tracking important moments and information and creating memory aids for elderly people,male,,26-35,5,5,5,5,5,5,5,4,4,3,4,5,4,2
+Tracking important moments and information and creating memory aids for elderly people,male,,26-35,4,2,5,4,4,3,2,4,2,3,2,4,2,3
+Tracking important moments and information and creating memory aids for elderly people,female,,26-35,2,5,4,3,4,4,4,4,3,4,2,4,3,3
+Tracking important moments and information and creating memory aids for elderly people,male,,56-65,3,5,3,4,4,4,4,4,4,4,2,4,2,3
+Tracking important moments and information and creating memory aids for elderly people,male,,26-35,4,4,5,5,5,4,5,3,1,1,2,5,5,2
+Translating an article you'd like to read from a foreign language to English,female,,26-35,4,5,2,1,1,2,4,2,2,2,5,2,5,1
+Translating an article you'd like to read from a foreign language to English,female,,46-55,1,3,2,4,4,4,4,4,3,3,4,3,3,2
+Translating an article you'd like to read from a foreign language to English,male,,26-35,5,5,1,1,5,2,4,2,1,1,5,1,5,1
+Translating an article you'd like to read from a foreign language to English,male,,36-45,5,5,2,2,3,3,5,4,3,3,4,1,3,1
+Translating an article you'd like to read from a foreign language to English,female,,36-45,3,4,2,2,2,3,5,2,1,1,5,2,3,4
+Voting in federal elections,male,,36-45,3,4,1,1,2,2,1,3,4,4,1,4,2,3
+Voting in federal elections,female,,46-55,1,3,2,2,2,2,4,3,2,4,2,4,3,3
+Voting in federal elections,female,,18-25,4,3,5,4,5,4,5,3,4,3,4,5,4,3
+Voting in federal elections,female,,26-35,4,5,3,2,2,1,5,4,2,4,2,3,2,4
+Voting in federal elections,male,,36-45,5,3,1,1,1,1,5,1,1,1,1,1,1,3
+Walking your dog,male,,36-45,3,5,2,2,2,2,4,5,2,4,4,4,4,2
+Walking your dog,male,,26-35,3,5,4,4,3,4,3,4,3,3,4,4,3,1
+Walking your dog,female,,18-25,5,3,3,2,3,4,4,5,5,4,1,4,1,4
+Walking your dog,female,,26-35,4,5,2,1,3,2,4,3,2,2,3,4,3,3
+Walking your dog,female,,36-45,4,5,3,1,1,2,4,4,2,3,4,4,3,3
+Writing a birthday card to your mother,female,,26-35,5,4,2,4,2,2,3,1,1,1,3,3,3,4
+Writing a birthday card to your mother,male,,36-45,5,5,5,4,1,1,5,1,1,1,4,5,3,3
+Writing a birthday card to your mother,male,,56-65,5,5,5,5,5,5,5,5,5,4,5,5,5,3
+Writing a birthday card to your mother,male,,56-65,4,5,4,5,3,3,5,3,3,4,3,4,3,3
+Writing a birthday card to your mother,male,,36-45,4,5,4,4,2,1,5,2,2,2,4,3,3,3
+Writing a blog post,male,,26-35,4,5,1,1,1,1,1,1,1,1,5,5,5,1
+Writing a blog post,male,,18-25,4,2,4,5,4,2,5,5,4,2,2,3,2,3
+Writing a blog post,male,,26-35,4,5,4,4,3,3,5,3,1,1,1,4,1,4
+Writing a blog post,female,,26-35,5,5,4,4,4,4,4,4,4,3,4,3,4,1
+Writing a blog post,female,,18-25,4,5,4,5,4,2,4,4,3,4,2,4,2,3
+Writing a novel or a short story (creative writing),female,,26-35,4,4,5,5,5,4,5,5,4,4,2,4,2,4
+Writing a novel or a short story (creative writing),male,,26-35,4,3,1,5,5,4,5,4,3,2,1,4,1,4
+Writing a novel or a short story (creative writing),female,,36-45,3,5,2,4,4,2,4,3,2,1,3,3,3,3
+Writing a novel or a short story (creative writing),female,,46-55,3,5,2,4,5,2,2,3,4,2,4,4,4,4
+Writing a novel or a short story (creative writing),female,,36-45,4,5,4,5,5,3,4,2,2,2,2,2,2,3
+"Writing reports and publishing Olympic (or other sports) results, standings, and stats (sports news coverage)",male,,46-55,3,5,3,5,4,5,4,5,1,4,2,4,3,3
+"Writing reports and publishing Olympic (or other sports) results, standings, and stats (sports news coverage)",male,,26-35,4,3,3,1,3,2,3,2,2,1,3,1,3,1
+"Writing reports and publishing Olympic (or other sports) results, standings, and stats (sports news coverage)",female,,56-65,4,5,4,4,5,5,5,4,2,3,5,5,4,3
+"Writing reports and publishing Olympic (or other sports) results, standings, and stats (sports news coverage)",female,,56-65,4,5,2,3,4,4,5,2,2,2,4,2,3,2
+"Writing reports and publishing Olympic (or other sports) results, standings, and stats (sports news coverage)",female,,46-55,3,2,2,1,4,2,5,3,2,2,2,2,1,4
+Writing reports and publishing updates on House/Senate/gubernatorial races during election day (election news coverage),female,,56-65,2,3,4,3,5,4,4,5,4,4,3,4,3,3
+Writing reports and publishing updates on House/Senate/gubernatorial races during election day (election news coverage),male,,18-25,5,3,4,2,3,4,4,4,4,5,3,4,2,3
+Writing reports and publishing updates on House/Senate/gubernatorial races during election day (election news coverage),female,,26-35,3,5,4,2,4,4,4,5,2,2,4,5,4,3
+Writing reports and publishing updates on House/Senate/gubernatorial races during election day (election news coverage),female,,26-35,4,5,4,4,4,4,4,4,4,3,2,4,3,3
+Writing reports and publishing updates on House/Senate/gubernatorial races during election day (election news coverage),male,,36-45,5,5,2,4,4,2,3,2,2,1,4,3,3,2
