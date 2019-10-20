@@ -1,5 +1,4 @@
 task,gender,gender-input,age,tech-level,edu-level,s_social_skills,s_creativity,d_effort,d_expertise,d_abilities,r_accountable,r_uncertainty,r_impact,m_intrinsic,m_learning,m_important,t_machine_ability,t_process,t_values,label
-"Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",male,,18-25,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3
 "Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",female,,26-35,4,5,4,4,4,4,3,4,4,4,4,4,4,4,4,4,2
 "Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",male,,26-35,5,5,4,4,5,4,3,4,3,2,3,3,4,3,3,4,3
 "Advising people on nutrition/their diet to help improve their health, similar to what a nutritionist might do",female,,56-65,4,4,4,4,4,5,2,4,3,4,3,2,4,2,5,3,3
@@ -110,7 +109,6 @@ Cooking dinner,male,,18-25,4,2,4,4,4,4,4,4,4,4,4,5,5,4,4,4,2
 "Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",female,,46-55,5,5,3,4,4,4,1,4,3,3,2,2,3,1,4,2,2
 "Cutting, drying, and styling hair, similar to what a barber or hairstylist might do",male,,56-65,4,4,4,4,3,4,4,4,2,3,2,4,4,2,4,2,4
 Deciding military actions such as whether to launch airstrikes,female,,26-35,4,4,5,1,5,5,1,5,5,5,1,5,5,1,5,1,4
-Deciding military actions such as whether to launch airstrikes,female,,36-45,3,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
 Deciding military actions such as whether to launch airstrikes,female,,26-35,4,5,4,1,4,4,2,4,4,4,1,2,4,2,4,3,2
 Deciding military actions such as whether to launch airstrikes,female,,46-55,5,3,4,4,4,5,1,5,4,5,1,2,1,2,4,1,4
 Deciding military actions such as whether to launch airstrikes,male,,46-55,2,3,4,4,4,5,3,4,4,5,2,3,4,2,4,2,3
@@ -167,7 +165,6 @@ Devising treatment plans for patients with depression,blank,,blank,blank,blank,4
 Diagnosing whether a person has cancer,female,,18-25,4,2,2,4,5,4,4,4,2,2,2,2,2,4,5,5,2
 Diagnosing whether a person has cancer,female,,36-45,3,2,2,2,3,4,1,4,3,4,1,2,5,4,5,3,2
 Diagnosing whether a person has cancer,male,,26-35,4,5,4,3,5,5,1,5,4,4,3,3,4,3,5,3,3
-Diagnosing whether a person has cancer,male,,26-35,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1
 Diagnosing whether a person has cancer,female,,26-35,3,2,5,3,4,5,3,4,5,5,4,5,5,3,5,5,3
 Diagnosing whether a person has depression,male,,18-25,5,5,4,1,3,3,5,4,3,3,5,5,5,4,4,4,3
 Diagnosing whether a person has depression,male,,36-45,4,5,4,4,3,4,2,4,5,4,2,2,4,2,4,4,3
@@ -324,7 +321,6 @@ Picking a movie to watch,male,,18-25,5,5,4,4,2,1,5,3,4,1,5,4,4,4,4,4,2
 Picking a movie to watch,male,,18-25,3,3,5,4,1,1,5,1,1,1,5,5,5,3,4,3,3
 Picking a movie to watch,male,,46-55,3,2,1,1,2,2,2,1,1,2,1,1,1,4,2,3,3
 Picking a movie to watch,male,,26-35,5,3,3,1,4,1,5,1,1,1,5,3,1,5,5,5,2
-Picking a movie to watch with a group of friends,male,,36-45,3,5,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3
 Picking a movie to watch with a group of friends,female,,26-35,1,4,4,4,2,2,4,3,2,2,4,4,4,2,4,2,3
 Picking a movie to watch with a group of friends,female,,56-65,3,5,5,5,3,1,2,3,4,1,1,1,1,1,5,3,4
 Picking a movie to watch with a group of friends,male,,26-35,4,5,4,2,2,2,5,2,2,2,4,2,4,4,3,4,1
@@ -359,7 +355,6 @@ Picking which news stories to show to people on social media websites,male,,26-3
 Picking which news stories to show to people on social media websites,male,,56-65,5,5,2,2,2,2,5,4,4,4,4,4,5,4,4,3,3
 Picking which news stories to show to people on social media websites,female,,26-35,3,5,2,2,5,2,4,1,2,1,4,3,3,5,4,4,2
 Picking which news stories to show to people on social media websites,male,,46-55,4,3,4,4,4,4,3,3,3,2,4,4,4,2,3,2,4
-Planning menus and developing recipes at a restaurant,male,,26-35,4,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,1
 Planning menus and developing recipes at a restaurant,male,,26-35,5,3,5,5,5,4,4,5,3,3,2,4,3,2,1,2,4
 Planning menus and developing recipes at a restaurant,male,,36-45,4,5,2,3,2,3,2,4,3,1,2,3,2,4,3,4,2
 Planning menus and developing recipes at a restaurant,female,,26-35,4,5,3,4,3,3,5,4,2,3,4,4,4,4,3,3,2
